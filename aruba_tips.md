@@ -273,7 +273,7 @@ Ativar NTP
 
 timesync ntp
 ntp unicast
-ntp server 10.1.17.19 iburst
+ntp server <server ip> iburst
 ntp enable
 
 =====================================
